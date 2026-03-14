@@ -5,7 +5,7 @@ Notebooki przedstawione w reozytrium wprowadzają do technik wyjaśnialności mo
 ## Opis projektu
 
 Ten projekt to zestaw materiałów w formie Jupyter Notebook, który krok po kroku wprowadza w zagadnienia interpretowalności głębokich sieci neuronowych. Projekt skupia się na metodach pozwalających zrozumieć, dlaczego model podjął konkretną decyzję.
----
+
 
 ## Struktura projektu
 
@@ -63,22 +63,21 @@ jupyter notebook -nazwa_notebooka-
 
 ### 3_LIME
 
-
 ### 4_EPIC
 
 ## Wymagania
 
-numpy>=1.24.0,<2.0.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-scikit-learn>=1.2.0
-opencv-python
-torch>=2.0.0
-torchvision>=0.15.0
-lime>=0.2.0
-jupyter>=1.0.0
-ipykernel>=6.0.0
-tqdm
+- numpy>=1.24.0,<2.0.0
+- pandas>=2.0.0
+- matplotlib>=3.7.0
+- scikit-learn>=1.2.0
+- opencv-python
+- torch>=2.0.0
+- torchvision>=0.15.0
+- lime>=0.2.0
+- jupyter>=1.0.0
+- ipykernel>=6.0.0
+- tqdm
 
 ## Autorzy
 
