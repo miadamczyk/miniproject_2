@@ -318,18 +318,6 @@ with gr.Blocks(
         outputs=output_image,
     )
 
-    # Example images from the test set (optional — comment out if not available)
-    gr.Examples(
-        examples=[
-            ["example_car.jpg", 4],
-        ],
-        inputs=[input_image, top_k_slider],
-        outputs=output_image,
-        fn=gradio_predict,
-        cache_examples=False,
-        label="Examples (only shown if example_car.jpg exists)",
-    )
-
 
 if __name__ == "__main__":
     demo.launch(
