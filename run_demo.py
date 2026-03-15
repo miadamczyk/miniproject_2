@@ -280,7 +280,7 @@ with gr.Blocks(
 
     gr.Markdown("# 🔍 EPIC — Prototype Explanation", elem_id="title")
     gr.Markdown(
-        "Upload a car image. EPIC will show which **prototype parts** from the "
+        "Upload an image. EPIC will show which **prototype parts** from the "
         "training set the model relied on to make its prediction.",
         elem_id="subtitle",
     )
