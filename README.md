@@ -62,8 +62,17 @@ jupyter notebook -nazwa_notebooka-
 4. Nieobowiązkowe zadanie nr 2 - pytania o ProtoPNet.
 
 ### 3_LIME
+1. Reprezentacje Interpretowalne (Interpretable Data Representations)
+2. LIME: Wyjaśnianie pojedynczych predykcji
+3. Wyjaśnianie całego modelu: Submodular Pick (SP-LIME)
+4. Przykład: analiza EKG
+5. Zadanie 3 (obowiązkowe): Analiza zbioru 20 Newsgroups
 
 ### 4_EPIC
+1. Podstawy Matematyczne: Wybór Prototypów z Kanałów Map Cecha
+2. Czystość Prototypu (Purity of Prototype)
+3. Moduł Rozplątujący i Niezmienniczość Predykcji (Disentanglement Module)
+4. Zadanie 4 (nieobowiązkowe)
 
 ## Wymagania
 

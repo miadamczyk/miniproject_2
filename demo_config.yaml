@@ -1,0 +1,15 @@
+model:
+  name: resnet34
+  num_classes: 196
+  backbone_path: ./stanford_cars_resnet34.pth
+matrix:
+  type: orthogonal
+  path: ./matrix_v1.pt
+data:
+  train_path: ./stanford_cars/train
+  batch_size: 64
+  num_workers: 0
+demo:
+  top_k: 4
+  num_prototypes: 4
+  prototype_cache: "prototypes.pt"

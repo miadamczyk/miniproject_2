@@ -9,3 +9,5 @@ lime>=0.2.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
 tqdm
+gradio>=6.9.0
+lime

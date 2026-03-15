@@ -19,3 +19,4 @@ dependencies:
       - torchvision>=0.15.0
       - opencv-python
       - lime
+      - gradio>=6.9.0
