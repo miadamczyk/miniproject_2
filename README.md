@@ -79,6 +79,13 @@ jupyter notebook -nazwa_notebooka-
 - ipykernel>=6.0.0
 - tqdm
 
+## Bibliografia
+
+- [xAI-CV: An Overview of Explainable Artificial Intelligence in Computer Vision](https://worldline.com/en/home/main-navigation/resources/blogs/2021/ever-heard-of-the-ai-black-box-problem) (dostęp 13.03.2026)  
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (dostęp 13.03.2026)  
+- [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://learnopencv.com/intro-to-gradcam/) (dostęp 13.03.2026)  
+- [What is a Convex Function?](https://thedatacopywriter.substack.com/p/what-is-a-convex-function) (dostęp 13.03.2026)
+
 ## Autorzy
 
 Miłosz Adamczyk, Yury Sarosek 
