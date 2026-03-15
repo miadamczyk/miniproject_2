@@ -72,7 +72,7 @@ jupyter notebook -nazwa_notebooka-
 1. Podstawy Matematyczne: Wybór Prototypów z Kanałów Map Cecha
 2. Czystość Prototypu (Purity of Prototype)
 3. Moduł Rozplątujący i Niezmienniczość Predykcji (Disentanglement Module)
-4. Zadanie 4 (nieobowiązkowe)
+4. Zadanie 4 (nieobowiązkowe) - Trenowanie klasyfikatora i interpretacja wynikówś
 
 ## Wymagania
 
@@ -87,6 +87,7 @@ jupyter notebook -nazwa_notebooka-
 - jupyter>=1.0.0
 - ipykernel>=6.0.0
 - tqdm
+- gradio>=6.9.0
 
 ## Bibliografia
 
@@ -94,6 +95,9 @@ jupyter notebook -nazwa_notebooka-
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (dostęp 13.03.2026)  
 - [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://learnopencv.com/intro-to-gradcam/) (dostęp 13.03.2026)  
 - [What is a Convex Function?](https://thedatacopywriter.substack.com/p/what-is-a-convex-function) (dostęp 13.03.2026)
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier"](https://arxiv.org/pdf/1602.04938) (dostęp 13.03.2026)
+- ["EPIC: Explanation of Pretrained Image Classification Networks via Prototypes"](https://arxiv.org/pdf/2505.12897) (dostęp 13.03.2026)
+- ["Classification of 12-lead ECGs: the PhysioNet/Computing in Cardiology Challenge 2020"](https://iopscience.iop.org/article/10.1088/1361-6579/abc960) (dostęp 13.03.2026)
 
 ## Autorzy
 
